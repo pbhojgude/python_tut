@@ -1,2 +1,2 @@
 language = "python3"
-run = "python ./python_codes/tut_1.py"
+run = "python ./python_codes/tut_2_numbers.py"
